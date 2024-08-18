@@ -47,7 +47,7 @@
 | 14  | Use Case, DFD nhân viên                                                   |        Nam               |
 | 15  | Quản lý thông tin doanh thu                                               |        Nam               |
 | 16  | Use Case, DFD khách hàng                                                  |        Phương            |
-| 18  | Quảng lý thông tin hóa đơn                                                |        Phương            |
+| 18  | Quản lý thông tin hóa đơn                                                 |        Phương            |
 
 ## Chức năng
 
@@ -61,7 +61,7 @@
 </p>
 <ul>
   <li>Thêm, xóa, sửa, xem thông tin sách</li>
-	<li>Thêm, xóa, sửa, xem thông tin kho</li>
+  <li>Thêm, xóa, sửa, xem thông tin kho</li>
 </ul>
 <p>
   Bán, nhập hàng
