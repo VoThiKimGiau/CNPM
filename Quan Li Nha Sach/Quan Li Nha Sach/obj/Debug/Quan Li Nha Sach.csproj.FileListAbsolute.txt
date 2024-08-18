@@ -1,0 +1,23 @@
+D:\HK_I_nam3\Cong Nghe Phan Mem\DoAn\Quan Li Nha Sach\Quan Li Nha Sach\bin\Debug\Quan Li Nha Sach.exe.config
+D:\HK_I_nam3\Cong Nghe Phan Mem\DoAn\Quan Li Nha Sach\Quan Li Nha Sach\bin\Debug\Quan Li Nha Sach.exe
+D:\HK_I_nam3\Cong Nghe Phan Mem\DoAn\Quan Li Nha Sach\Quan Li Nha Sach\bin\Debug\Quan Li Nha Sach.pdb
+D:\HK_I_nam3\Cong Nghe Phan Mem\DoAn\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan_Li_Nha_Sach.Properties.Resources.resources
+D:\HK_I_nam3\Cong Nghe Phan Mem\DoAn\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan Li Nha Sach.csproj.GenerateResource.cache
+D:\HK_I_nam3\Cong Nghe Phan Mem\DoAn\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan Li Nha Sach.csproj.CoreCompileInputs.cache
+D:\HK_I_nam3\Cong Nghe Phan Mem\DoAn\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan Li Nha Sach.exe
+D:\HK_I_nam3\Cong Nghe Phan Mem\DoAn\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan Li Nha Sach.pdb
+D:\HK_I_nam3\Cong Nghe Phan Mem\DoAn\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan Li Nha Sach.csproj.AssemblyReference.cache
+D:\HK_I_nam3\Cong Nghe Phan Mem\DoAn\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan_Li_Nha_Sach.QuanLySanPham.resources
+D:\HK_I_nam3\Cong Nghe Phan Mem\DoAn\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan_Li_Nha_Sach.QuanLyKho.resources
+C:\Users\Asus\OneDrive - Ho Chi Minh city University of Food Industry\Tài liệu\Tài liệu\Năm 3\HK1\CNPM\50%\Quan Li Nha Sach\Quan Li Nha Sach\bin\Debug\Quan Li Nha Sach.exe.config
+C:\Users\Asus\OneDrive - Ho Chi Minh city University of Food Industry\Tài liệu\Tài liệu\Năm 3\HK1\CNPM\50%\Quan Li Nha Sach\Quan Li Nha Sach\bin\Debug\Quan Li Nha Sach.exe
+C:\Users\Asus\OneDrive - Ho Chi Minh city University of Food Industry\Tài liệu\Tài liệu\Năm 3\HK1\CNPM\50%\Quan Li Nha Sach\Quan Li Nha Sach\bin\Debug\Quan Li Nha Sach.pdb
+C:\Users\Asus\OneDrive - Ho Chi Minh city University of Food Industry\Tài liệu\Tài liệu\Năm 3\HK1\CNPM\50%\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan Li Nha Sach.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive - Ho Chi Minh city University of Food Industry\Tài liệu\Tài liệu\Năm 3\HK1\CNPM\50%\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan_Li_Nha_Sach.Properties.Resources.resources
+C:\Users\Asus\OneDrive - Ho Chi Minh city University of Food Industry\Tài liệu\Tài liệu\Năm 3\HK1\CNPM\50%\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan_Li_Nha_Sach.QuanLyKho.resources
+C:\Users\Asus\OneDrive - Ho Chi Minh city University of Food Industry\Tài liệu\Tài liệu\Năm 3\HK1\CNPM\50%\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan_Li_Nha_Sach.QuanLySanPham.resources
+C:\Users\Asus\OneDrive - Ho Chi Minh city University of Food Industry\Tài liệu\Tài liệu\Năm 3\HK1\CNPM\50%\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan Li Nha Sach.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive - Ho Chi Minh city University of Food Industry\Tài liệu\Tài liệu\Năm 3\HK1\CNPM\50%\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan Li Nha Sach.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive - Ho Chi Minh city University of Food Industry\Tài liệu\Tài liệu\Năm 3\HK1\CNPM\50%\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan Li Nha Sach.exe
+C:\Users\Asus\OneDrive - Ho Chi Minh city University of Food Industry\Tài liệu\Tài liệu\Năm 3\HK1\CNPM\50%\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan Li Nha Sach.pdb
+C:\Users\Asus\OneDrive - Ho Chi Minh city University of Food Industry\Tài liệu\Tài liệu\Năm 3\HK1\CNPM\50%\Quan Li Nha Sach\Quan Li Nha Sach\obj\Debug\Quan_Li_Nha_Sach.frmLogin.resources
